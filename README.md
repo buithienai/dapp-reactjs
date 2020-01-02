@@ -1,12 +1,12 @@
-Nextjs with redux-saga
+Dapp reactjs
 =========================
 
-> Reactjs nextjs-with-redux-saga 
+> Reactjs dapp 
 
 ### Clone this repository
 
 ```bash
-git clone https://github.com/buithienai/nextjs-with-redux-saga.git
+git clone https://github.com/buithienai/dapp-reactjs.git
 ```
 
 ### Start project
